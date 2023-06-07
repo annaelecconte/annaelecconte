@@ -2,10 +2,10 @@
   **QA Automation Engineer**   
   **I’m interested in Learn and share your knowledge with people**
   
-<!---Для компактной версии-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?annaelecconte=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---Для подробной версии-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?annaelecconte=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   
