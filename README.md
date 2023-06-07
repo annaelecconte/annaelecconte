@@ -1,8 +1,6 @@
-#Hi, I’m ANNA NOSOVA
-   
-   
-   
-   👀 I’m interested in Learn and share your knowledge with people
+**Hi, I’m ANNA NOSOVA** 
+**QA Automation Engineer**   
+**I’m interested in Learn and share your knowledge with people**
 
 
 <!---
