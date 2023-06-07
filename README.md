@@ -1,5 +1,4 @@
-<h1 align="center">Hi, there
-
+<h1 align="center">Hi, there:smile:
 
 :woman_technologist: **I am ANNA NOSOVA** 
 
