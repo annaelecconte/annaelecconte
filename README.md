@@ -4,7 +4,7 @@
 <h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!:smile:
  
  _______________
-![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/Lrkn.gif) 
+![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/1.gif) 
  
  --------------
 
