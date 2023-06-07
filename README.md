@@ -1,4 +1,4 @@
-<h1 align="center">**HI There**
+<h1 align="center">Hi, There
 
 ###  About Me :
 
