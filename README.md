@@ -8,7 +8,8 @@
 
 :man_student: **I’m interested in Learn and share your knowledge with people**
   
-
+[](https://assets.pinterest.com/ext/embed.html?id=592082682284247832)
+---------
 - :telescope: I’m working QA Automation Engineer as a  and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -49,7 +50,7 @@
 
 
 
-[](https://assets.pinterest.com/ext/embed.html?id=592082682284247832)
+
 
 
 
