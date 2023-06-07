@@ -1,14 +1,14 @@
 
 
 
-✌️ **Hi, I’m ANNA NOSOVA** 
-  **QA Automation Engineer**   
-  **I’m interested in Learn and share your knowledge with people**
+:man_student: **Hi, I’m ANNA NOSOVA** 
+
+:lotus_position_woman:**I’m interested in Learn and share your knowledge with people**
   
 
 ### :woman_technologist: About Me :
 ___
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
 
 
