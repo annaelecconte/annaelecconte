@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 ___
-**I am a Full QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+**I am a Full QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.**
 
 
 
