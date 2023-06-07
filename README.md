@@ -16,7 +16,7 @@
 
 
 
-<div align="center">![](https://komarev.com/ghpvc/?username=annaelecconte)</div>
+![](https://komarev.com/ghpvc/?username=annaelecconte)
 
 
 
