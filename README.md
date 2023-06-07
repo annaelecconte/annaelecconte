@@ -3,8 +3,7 @@
  
 <h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!:smile:
  
-
- 
+![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0937png.png) 
  --------------
 
 :woman_technologist: **I am ANNA NOSOVA** 
@@ -69,7 +68,7 @@
 
 
 _________________________
- ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0938ng.png)
+
 
 
 
