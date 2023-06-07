@@ -15,7 +15,7 @@
 
 - :zap: In my free time, I solve problems on Lerning tech class and read tech articles.
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)(https://www.linkedin.com/in/anna-nosova)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anna-nosova/)
 
 ---
 
