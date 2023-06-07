@@ -1,6 +1,17 @@
 ✌️ **Hi, I’m ANNA NOSOVA** 
   **QA Automation Engineer**   
   **I’m interested in Learn and share your knowledge with people**
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ![Skrinshot](https://github.com/annaelecconte/annaelecconte/blob/main/fe018a956c5820237d864eb3b08aac5f.jpeg)
 <!---
 annaelecconte/annaelecconte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
