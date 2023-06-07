@@ -1,6 +1,5 @@
 <h1 align="center">Hi, there
 
-###  About Me :
 
 :woman_technologist: **I am ANNA NOSOVA** 
 
