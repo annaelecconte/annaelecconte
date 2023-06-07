@@ -2,7 +2,7 @@
   **QA Automation Engineer**   
   **I’m interested in Learn and share your knowledge with people**
   
-![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0934.jpg)
+
 
 
 
