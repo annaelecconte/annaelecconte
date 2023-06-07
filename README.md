@@ -6,10 +6,10 @@
  _______________
 ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/9lZ7.gif) 
 ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/1.gif) 
-![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/9lZ7.gif) 
+
  --------------
 
-<h1 align="center">:woman_technologist:I am ANNA NOSOVA\
+<h1 align="center">:woman_technologist:I am ANNA NOSOVA
 
 :space_invader: **I am QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.**
 
