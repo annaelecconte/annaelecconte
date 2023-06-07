@@ -2,8 +2,7 @@
   **QA Automation Engineer**   
   **I’m interested in Learn and share your knowledge with people**
   
-![Skrinshot](https://github.com/annaelecconte/commit/6bc7d2b80a40faa5f1f6348198039e46886b77c2)
-
+![Skreanshot]![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0934.jpg)
 
 
 
