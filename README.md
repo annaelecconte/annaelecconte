@@ -16,9 +16,7 @@
 
 
 
-
-![](https://komarev.com/ghpvc/?username=annaelecconte)
-
+<div align="center">![](https://komarev.com/ghpvc/?username=annaelecconte)</div>
 
 
 
