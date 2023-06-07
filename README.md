@@ -4,7 +4,7 @@
   
 ![](https://komarev.com/ghpvc/?username=annaelecconte)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)!
+
 
 
 
