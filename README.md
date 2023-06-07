@@ -1,4 +1,4 @@
-<h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋:smile:
+<h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!:smile:
 
 :woman_technologist: **I am ANNA NOSOVA** 
 
