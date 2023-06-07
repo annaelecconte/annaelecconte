@@ -2,8 +2,7 @@
   **QA Automation Engineer**   
   **I’m interested in Learn and share your knowledge with people**
   
-
-  
+![](https://komarev.com/ghpvc/?username=annaelecconte)
   
 ![Skrinshot](https://github.com/annaelecconte/annaelecconte/blob/main/fe018a956c5820237d864eb3b08aac5f.jpeg)
 <!---
