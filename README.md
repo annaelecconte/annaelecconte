@@ -3,11 +3,7 @@
  
 <h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!:smile:
  
- ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0938ng.png)
- 
 
- 
- 
  
  --------------
 
@@ -72,7 +68,8 @@
 <h1 align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-
+_________________________
+ ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0938ng.png)
 
 
 
