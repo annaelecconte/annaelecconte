@@ -73,7 +73,7 @@
 
 
 
-![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0936.jpg)
+:smile:![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0936.jpg):smile:
 
 
 
