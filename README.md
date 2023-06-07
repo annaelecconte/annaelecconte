@@ -3,13 +3,6 @@
   **I’m interested in Learn and share your knowledge with people**
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?annaelecconte=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?annaelecconte=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  
   
   
 ![Skrinshot](https://github.com/annaelecconte/annaelecconte/blob/main/fe018a956c5820237d864eb3b08aac5f.jpeg)
