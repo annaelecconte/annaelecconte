@@ -12,12 +12,12 @@
   
 [](https://assets.pinterest.com/ext/embed.html?id=592082682284247832)
 ---------
-- :telescope: I’m working QA Automation Engineer as a  and contributing to frontend and backend for building web applications.
+<h1 align="center">- :telescope: I’m working QA Automation Engineer as a  and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+<h1 align="center">- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Lerning tech class and read tech articles.
-- :mailbox:How to reach me:
+<h1 align="center">- :zap: In my free time, I solve problems on Lerning tech class and read tech articles.
+<h1 align="center">- :mailbox:How to reach me:
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anna-nosova/)
 
 ---
