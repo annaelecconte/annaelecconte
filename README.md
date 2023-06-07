@@ -68,9 +68,7 @@
 
 
 
-
-
-
+![Image alt](https://github.com/annaelecconte/blob/main/—Pngtree—blue%20computer%20digital%20technology%20man-machine_4833541.png)
 
 
 
