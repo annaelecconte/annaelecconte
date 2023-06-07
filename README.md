@@ -1,12 +1,12 @@
 
 
-### :woman_technologist: About Me :
+###  About Me :
 
-:man_student: **Hi, I’m ANNA NOSOVA** 
+:woman_technologist: **Hi, I’m ANNA NOSOVA** 
 
 **I am a Full QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.**
 
-:lotus_position_woman:**I’m interested in Learn and share your knowledge with people**
+::man_student: **I’m interested in Learn and share your knowledge with people**
   
 
 
