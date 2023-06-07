@@ -4,8 +4,8 @@
   
 ![](https://komarev.com/ghpvc/?username=annaelecconte)
 
-
-
+[
+](https://assets.pinterest.com/ext/embed.html?id=592082682284247832)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
