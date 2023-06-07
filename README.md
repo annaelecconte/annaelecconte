@@ -4,7 +4,8 @@
 <h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!:smile:
  
  _______________
-
+![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/Lrkn.gif) 
+ 
  --------------
 
 :woman_technologist: **I am ANNA NOSOVA** 
