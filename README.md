@@ -4,7 +4,7 @@
 
 :woman_technologist: **Hi, I’m ANNA NOSOVA** 
 
-**I am a Full QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.**
+**I am QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.**
 
 ::man_student: **I’m interested in Learn and share your knowledge with people**
   
