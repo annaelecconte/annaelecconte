@@ -15,8 +15,7 @@
 
 - :zap: In my free time, I solve problems on Lerning tech class and read tech articles.
 
-- :mailbox:How to reach me: 
-
+- :mailbox:How to reach me: [[![Linkedin Badge]](https://www.linkedin.com/in/anna-nosova/)
 
 ---
 
