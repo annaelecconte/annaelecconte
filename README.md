@@ -5,7 +5,6 @@
  
  _______________
  <h1 align="center">
- 
   ![Image alt](https://github.com/annaelecconte/annaelecconte/blob/main/IMG_0937png.png) 
  --------------
 
